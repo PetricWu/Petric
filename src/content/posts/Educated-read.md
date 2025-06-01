@@ -5,7 +5,7 @@ updatedDate: 2025-04-27     # 更新时间（可选）
 tags:                       # 标签数组
   - "示例文章"
 description: "示例文章"  # 摘要
-cover: "/img/posts-covers/edu.jpg"  # 封面图路径（可选）
+cover: "https://avatars.githubusercontent.com/u/140591580?v=4"  # 封面图路径（可选）
 ---
 
 # 示例文章
